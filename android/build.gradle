@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.example.flutter_facebook_keyhash"
+    namespace "flutter_facebook_keyhash"
     compileSdkVersion 31
 
     compileOptions {
